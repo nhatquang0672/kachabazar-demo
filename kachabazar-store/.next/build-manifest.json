@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/IH1r_u7mk4Mck9T07Eiz7/_buildManifest.js",
-    "static/IH1r_u7mk4Mck9T07Eiz7/_ssgManifest.js"
+    "static/Qs20kxEieYnpnEuPlzz_Q/_buildManifest.js",
+    "static/Qs20kxEieYnpnEuPlzz_Q/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -156,7 +156,7 @@
       "static/chunks/275-004446eb7ef5580b.js",
       "static/chunks/61-87c628f5fbca32a2.js",
       "static/chunks/68-870b28599d242d02.js",
-      "static/chunks/553-418766cdbac0af95.js",
+      "static/chunks/553-2e704cc17f4943b2.js",
       "static/chunks/388-0e087f943d478536.js",
       "static/css/c2c4e2b9bf1b95af.css",
       "static/chunks/pages/order/[id]-d92ff08f9d4a9be3.js"
@@ -244,7 +244,7 @@
       "static/chunks/388-0e087f943d478536.js",
       "static/chunks/963-168e3f9ce95af38d.js",
       "static/css/c2c4e2b9bf1b95af.css",
-      "static/chunks/pages/user/change-password-5203d6bcaa2746dc.js"
+      "static/chunks/pages/user/change-password-c73291575bb1e703.js"
     ],
     "/user/dashboard": [
       "static/chunks/webpack-df4cf1c8d23aa877.js",
